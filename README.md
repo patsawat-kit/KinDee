@@ -165,17 +165,12 @@ If I were to continue building this project, I would add:
 
 ## Contact
 
-**Built by**: [Your Name]  
-**LinkedIn**: [Your LinkedIn]  
-**GitHub**: [Your GitHub]  
-**Portfolio**: [Your Portfolio]
+**Built by**: Patsawat Kittipunthopast
+**GitHub**: github/patsawat-kit 
+**Portfolio**: https://patsawat.site
 
 ---
 
 ## License
 
 MIT License - This is a portfolio project for demonstration purposes.
-
----
-
-**Note to Wongnai Hiring Team**: This project demonstrates my ability to build production-ready applications using your core tech stack. I'm excited about the opportunity to bring this level of craftsmanship to Wongnai's engineering team. Let's talk! 🚀
