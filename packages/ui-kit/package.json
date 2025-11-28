@@ -1,0 +1,27 @@
+{
+    "name": "@kindee/ui-kit",
+    "version": "0.0.0",
+    "main": "./src/index.tsx",
+    "types": "./src/index.tsx",
+    "sideEffects": false,
+    "license": "MIT",
+    "files": [
+        "src"
+    ],
+    "scripts": {
+        "lint": "eslint .",
+        "type-check": "tsc --noEmit"
+    },
+    "peerDependencies": {
+        "react": "^18",
+        "react-dom": "^18"
+    },
+    "devDependencies": {
+        "@kindee/config": "workspace:*",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "react": "^18",
+        "react-dom": "^18",
+        "typescript": "^5.3.3"
+    }
+}
